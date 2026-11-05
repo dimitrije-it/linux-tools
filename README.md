@@ -5,6 +5,7 @@ A collection of native Bash scripts and system administration utilities designed
 ## Tools Included
 
 - **`resource_logger.sh`**: Automatically tracks and logs system resource utilization (CPU, memory, and disk space) with precise timestamps for performance monitoring.
+- **`network_monitor.sh`**: Displays active listening ports, established network connections with remote IP addresses, and configured network interfaces.
 
 ## Usage
 
